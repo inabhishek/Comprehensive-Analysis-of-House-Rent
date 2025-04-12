@@ -1,0 +1,10 @@
+Objective--
+ Exploratory Data Analysis (EDA) ...
+1. Rent Distribution Across Cities ...bar plot
+2. Relationship Between BHK and Rent ...boxplot
+3. Rental Price Analysis ...heat plot
+4. Count of Furnishing Types by City ...count plot
+5. Monthly Average rent trend by furnishing status ...line plot
+6. Furnishing and Tenant Preference Insights ...violin plot and bar plot
+7. Scatter Plot on House Rents vs House Sizes
+8. Distribution of different number of BHK 
